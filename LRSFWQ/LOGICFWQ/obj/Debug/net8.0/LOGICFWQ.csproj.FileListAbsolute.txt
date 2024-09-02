@@ -1,0 +1,17 @@
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\bin\Debug\net8.0\LOGICFWQ.exe
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\bin\Debug\net8.0\LOGICFWQ.deps.json
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\bin\Debug\net8.0\LOGICFWQ.runtimeconfig.json
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\bin\Debug\net8.0\LOGICFWQ.dll
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\bin\Debug\net8.0\LOGICFWQ.pdb
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\obj\Debug\net8.0\LOGICFWQ.csproj.AssemblyReference.cache
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\obj\Debug\net8.0\LOGICFWQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\obj\Debug\net8.0\LOGICFWQ.AssemblyInfoInputs.cache
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\obj\Debug\net8.0\LOGICFWQ.AssemblyInfo.cs
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\obj\Debug\net8.0\LOGICFWQ.csproj.CoreCompileInputs.cache
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\obj\Debug\net8.0\LOGICFWQ.csproj.Up2Date
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\obj\Debug\net8.0\LOGICFWQ.dll
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\obj\Debug\net8.0\refint\LOGICFWQ.dll
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\obj\Debug\net8.0\LOGICFWQ.pdb
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\obj\Debug\net8.0\LOGICFWQ.genruntimeconfig.cache
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\LOGICFWQ\obj\Debug\net8.0\ref\LOGICFWQ.dll

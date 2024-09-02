@@ -1,0 +1,514 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\netframework\\msghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\netframework\\msghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\netframework\\lockstepmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\netframework\\lockstepmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\msg\\msglockstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\msg\\msglockstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\netframework\\netmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\netframework\\netmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\netframework\\msgbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\netframework\\msgbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\msg\\msgstop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\msg\\msgstop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\mobafwq\\netframework\\msgbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|solutionrelative:mobafwq\\netframework\\msgbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\mobafwq\\msg\\msgstop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|solutionrelative:mobafwq\\msg\\msgstop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\mobafwq\\msg\\msgpong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|solutionrelative:mobafwq\\msg\\msgpong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\msg\\msgstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\msg\\msgstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\netframework\\clientstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\netframework\\clientstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\netframework\\bytearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\netframework\\bytearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\room\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\room\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\netframework\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\netframework\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\msg\\msglockstepback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\msg\\msglockstepback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\mobafwq\\netframework\\gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|solutionrelative:mobafwq\\netframework\\gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\mobafwq\\netframework\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|solutionrelative:mobafwq\\netframework\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\mobafwq\\netframework\\clientstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|solutionrelative:mobafwq\\netframework\\clientstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\msg\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\msg\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\mobafwq\\netframework\\myguid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|solutionrelative:mobafwq\\netframework\\myguid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\mobafwq\\netframework\\serverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|solutionrelative:mobafwq\\netframework\\serverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\msg\\msgtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\msg\\msgtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\math\\fixed64vector3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\math\\fixed64vector3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\math\\fixed64vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\math\\fixed64vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\math\\fixed64.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\math\\fixed64.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\xxrj\\UnityHub\\xm\\MyLangRenSha2\\Assets\\GameMain\\Scripts\\Entity\\Roles\\Roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\msg\\msggetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\msg\\msggetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\logicfwq\\msg\\msgpong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFE7A66-FA1F-49BD-BC57-DA0070D4877F}|LOGICFWQ\\LOGICFWQ.csproj|solutionrelative:logicfwq\\msg\\msgpong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\mobafwq\\msg\\msgtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|solutionrelative:mobafwq\\msg\\msgtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|c:\\users\\sheng\\desktop\\myfwq\\lrs\\lrsfwq\\mobafwq\\netframework\\bytearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7A9A19-5757-4C29-A6D4-B99B1A8A41FD}|MOBAFWQ\\MOBAFWQ.csproj|solutionrelative:mobafwq\\netframework\\bytearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MsgHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\NetFramework\\MsgHandler.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\NetFramework\\MsgHandler.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\NetFramework\\MsgHandler.cs",
+              "RelativeToolTip": "LOGICFWQ\\NetFramework\\MsgHandler.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAswEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T03:36:58.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LockStepManager.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\NetFramework\\LockStepManager.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\NetFramework\\LockStepManager.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\NetFramework\\LockStepManager.cs",
+              "RelativeToolTip": "LOGICFWQ\\NetFramework\\LockStepManager.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAtwDIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T02:29:34.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MsgPong.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\Msg\\MsgPong.cs",
+              "RelativeDocumentMoniker": "MOBAFWQ\\Msg\\MsgPong.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\Msg\\MsgPong.cs",
+              "RelativeToolTip": "MOBAFWQ\\Msg\\MsgPong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:22:04.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetManager.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\NetFramework\\NetManager.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\NetFramework\\NetManager.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\NetFramework\\NetManager.cs",
+              "RelativeToolTip": "LOGICFWQ\\NetFramework\\NetManager.cs",
+              "ViewState": "AQIAABgBAAAAAAAAAAAnwCABAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T03:25:05.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MsgStop.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\MsgStop.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\Msg\\MsgStop.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\MsgStop.cs",
+              "RelativeToolTip": "LOGICFWQ\\Msg\\MsgStop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:20:01.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MsgBase.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\NetFramework\\MsgBase.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\NetFramework\\MsgBase.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\NetFramework\\MsgBase.cs",
+              "RelativeToolTip": "LOGICFWQ\\NetFramework\\MsgBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:34:32.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MsgStart.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\MsgStart.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\Msg\\MsgStart.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\MsgStart.cs",
+              "RelativeToolTip": "LOGICFWQ\\Msg\\MsgStart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T10:36:21.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MsgLockStep.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\MsgLockStep.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\Msg\\MsgLockStep.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\MsgLockStep.cs",
+              "RelativeToolTip": "LOGICFWQ\\Msg\\MsgLockStep.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvwgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:45:57.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MsgBase.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\NetFramework\\MsgBase.cs",
+              "RelativeDocumentMoniker": "MOBAFWQ\\NetFramework\\MsgBase.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\NetFramework\\MsgBase.cs",
+              "RelativeToolTip": "MOBAFWQ\\NetFramework\\MsgBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:16:49.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MsgStop.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\Msg\\MsgStop.cs",
+              "RelativeDocumentMoniker": "MOBAFWQ\\Msg\\MsgStop.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\Msg\\MsgStop.cs",
+              "RelativeToolTip": "MOBAFWQ\\Msg\\MsgStop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T05:15:43.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientState.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\NetFramework\\ClientState.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\NetFramework\\ClientState.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\NetFramework\\ClientState.cs",
+              "RelativeToolTip": "LOGICFWQ\\NetFramework\\ClientState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:14:30.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomManager.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Room\\RoomManager.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\Room\\RoomManager.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Room\\RoomManager.cs",
+              "RelativeToolTip": "LOGICFWQ\\Room\\RoomManager.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T03:24:49.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Player\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\Player\\PlayerManager.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Player\\PlayerManager.cs",
+              "RelativeToolTip": "LOGICFWQ\\Player\\PlayerManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvwUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:57:31.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ByteArray.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\NetFramework\\ByteArray.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\NetFramework\\ByteArray.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\NetFramework\\ByteArray.cs",
+              "RelativeToolTip": "LOGICFWQ\\NetFramework\\ByteArray.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:59:01.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServerState.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\NetFramework\\ServerState.cs",
+              "RelativeDocumentMoniker": "MOBAFWQ\\NetFramework\\ServerState.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\NetFramework\\ServerState.cs",
+              "RelativeToolTip": "MOBAFWQ\\NetFramework\\ServerState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:14:43.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientState.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\NetFramework\\ClientState.cs",
+              "RelativeDocumentMoniker": "MOBAFWQ\\NetFramework\\ClientState.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\NetFramework\\ClientState.cs",
+              "RelativeToolTip": "MOBAFWQ\\NetFramework\\ClientState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:54:49.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\xxrj\\UnityHub\\xm\\MyLangRenSha2\\Assets\\GameMain\\Scripts\\Entity\\Roles\\Roles.cs",
+              "ToolTip": "D:\\xxrj\\UnityHub\\xm\\MyLangRenSha2\\Assets\\GameMain\\Scripts\\Entity\\Roles\\Roles.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:40:06.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Fixed64Vector2.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Math\\Fixed64Vector2.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\Math\\Fixed64Vector2.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Math\\Fixed64Vector2.cs",
+              "RelativeToolTip": "LOGICFWQ\\Math\\Fixed64Vector2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:36:47.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Fixed64.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Math\\Fixed64.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\Math\\Fixed64.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Math\\Fixed64.cs",
+              "RelativeToolTip": "LOGICFWQ\\Math\\Fixed64.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:36:39.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MsgGetInfo.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\MsgGetInfo.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\Msg\\MsgGetInfo.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\MsgGetInfo.cs",
+              "RelativeToolTip": "LOGICFWQ\\Msg\\MsgGetInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:48:25.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MsgPong.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\MsgPong.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\Msg\\MsgPong.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\MsgPong.cs",
+              "RelativeToolTip": "LOGICFWQ\\Msg\\MsgPong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:48:23.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Fixed64Vector3.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Math\\Fixed64Vector3.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\Math\\Fixed64Vector3.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Math\\Fixed64Vector3.cs",
+              "RelativeToolTip": "LOGICFWQ\\Math\\Fixed64Vector3.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:18:11.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MsgLockStepBack.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\MsgLockStepBack.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\Msg\\MsgLockStepBack.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\MsgLockStepBack.cs",
+              "RelativeToolTip": "LOGICFWQ\\Msg\\MsgLockStepBack.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:17:51.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\Operation.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\Msg\\Operation.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\Operation.cs",
+              "RelativeToolTip": "LOGICFWQ\\Msg\\Operation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:46:12.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MyGuid.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\NetFramework\\MyGuid.cs",
+              "RelativeDocumentMoniker": "MOBAFWQ\\NetFramework\\MyGuid.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\NetFramework\\MyGuid.cs",
+              "RelativeToolTip": "MOBAFWQ\\NetFramework\\MyGuid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:27:02.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ByteArray.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\NetFramework\\ByteArray.cs",
+              "RelativeDocumentMoniker": "MOBAFWQ\\NetFramework\\ByteArray.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\NetFramework\\ByteArray.cs",
+              "RelativeToolTip": "MOBAFWQ\\NetFramework\\ByteArray.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:28:31.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\NetFramework\\MainClass.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\NetFramework\\MainClass.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\NetFramework\\MainClass.cs",
+              "RelativeToolTip": "LOGICFWQ\\NetFramework\\MainClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:28:56.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\NetFramework\\MainClass.cs",
+              "RelativeDocumentMoniker": "MOBAFWQ\\NetFramework\\MainClass.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\NetFramework\\MainClass.cs",
+              "RelativeToolTip": "MOBAFWQ\\NetFramework\\MainClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:21:54.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MsgTest.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\MsgTest.cs",
+              "RelativeDocumentMoniker": "LOGICFWQ\\Msg\\MsgTest.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\Msg\\MsgTest.cs",
+              "RelativeToolTip": "LOGICFWQ\\Msg\\MsgTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T03:39:16.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MsgTest.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\Msg\\MsgTest.cs",
+              "RelativeDocumentMoniker": "MOBAFWQ\\Msg\\MsgTest.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\Msg\\MsgTest.cs",
+              "RelativeToolTip": "MOBAFWQ\\Msg\\MsgTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T03:35:59.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Gateway.cs",
+              "DocumentMoniker": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\NetFramework\\Gateway.cs",
+              "RelativeDocumentMoniker": "MOBAFWQ\\NetFramework\\Gateway.cs",
+              "ToolTip": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\NetFramework\\Gateway.cs",
+              "RelativeToolTip": "MOBAFWQ\\NetFramework\\Gateway.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKIBAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T03:22:21.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

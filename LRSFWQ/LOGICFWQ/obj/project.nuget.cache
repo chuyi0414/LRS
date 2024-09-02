@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sbe1H5xR7lDFRDHyInX1C0XUZbckQJR71w882kppCt/73VSr8w+90rpkwmoVBHmgCNfwY5yIVcaVh5N3e3PfGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LOGICFWQ\\LOGICFWQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sheng\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

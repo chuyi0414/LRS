@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7WReegw9vzNgHGHfYxLjRGho1T3CYXbdyvTOq3ym02wLcQEOoXiPEtLCUFVSCOkzY1RtTUCAsJSYDW+9dqvcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\MOBAFWQ\\MOBAFWQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sheng\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

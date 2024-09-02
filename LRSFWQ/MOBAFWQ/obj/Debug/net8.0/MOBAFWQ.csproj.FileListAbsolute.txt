@@ -1,0 +1,17 @@
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\obj\Debug\net8.0\MOBAFWQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\obj\Debug\net8.0\MOBAFWQ.AssemblyInfoInputs.cache
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\obj\Debug\net8.0\MOBAFWQ.AssemblyInfo.cs
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\obj\Debug\net8.0\MOBAFWQ.csproj.CoreCompileInputs.cache
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\bin\Debug\net8.0\MOBAFWQ.exe
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\bin\Debug\net8.0\MOBAFWQ.deps.json
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\bin\Debug\net8.0\MOBAFWQ.runtimeconfig.json
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\bin\Debug\net8.0\MOBAFWQ.dll
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\bin\Debug\net8.0\MOBAFWQ.pdb
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\obj\Debug\net8.0\MOBAFWQ.csproj.AssemblyReference.cache
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\obj\Debug\net8.0\MOBAFWQ.csproj.Up2Date
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\obj\Debug\net8.0\MOBAFWQ.dll
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\obj\Debug\net8.0\refint\MOBAFWQ.dll
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\obj\Debug\net8.0\MOBAFWQ.pdb
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\obj\Debug\net8.0\MOBAFWQ.genruntimeconfig.cache
+C:\Users\sheng\Desktop\MyFWQ\LRS\LRSFWQ\MOBAFWQ\obj\Debug\net8.0\ref\MOBAFWQ.dll

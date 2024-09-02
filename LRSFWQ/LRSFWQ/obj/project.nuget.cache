@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W4tp1LSL7VJNEVjgQoABdACNPv4zkCeNWroH6NfAibnKYUmUTliyzfkZJmLhIXK833yi/fajmHtwVvbIU1Hlmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sheng\\Desktop\\MyFWQ\\LRS\\LRSFWQ\\LRSFWQ\\LRSFWQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sheng\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\sheng\\.nuget\\packages\\protobuf-net\\3.2.30\\protobuf-net.3.2.30.nupkg.sha512",
+    "C:\\Users\\sheng\\.nuget\\packages\\protobuf-net.core\\3.2.30\\protobuf-net.core.3.2.30.nupkg.sha512",
+    "C:\\Users\\sheng\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

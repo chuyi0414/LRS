@@ -1,4 +1,2 @@
-LRSFWQ filter=lfs diff=lfs merge=lfs -text
-LRSFWQ.zip filter=lfs diff=lfs merge=lfs -text
+LRSFWQ filter=lfs diff=lfs merge=lfs -text  
 MyLangRenSha2 filter=lfs diff=lfs merge=lfs -text
-MyLangRenSha2.zip filter=lfs diff=lfs merge=lfs -text

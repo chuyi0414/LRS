@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <ResourceCollection>
+    <Resources>
+      <Resource Name="Entity" LoadType="0" Packed="True" />
+      <Resource Name="UI" LoadType="0" Packed="True" />
+    </Resources>
+    <Assets>
+      <Asset Guid="12760b628731c3140b741c0bbe721ab8" ResourceName="Entity" />
+      <Asset Guid="51058ec414bc7fb4dbb2a5627a3c5b78" ResourceName="UI" />
+      <Asset Guid="85b80c8823d5a4149b2174c5871dd31c" ResourceName="UI" />
+      <Asset Guid="c475c548bf62aec4d954e8fd90bbd15c" ResourceName="Entity" />
+      <Asset Guid="f2660c0784b078e438e8273f0312e1e1" ResourceName="UI" />
+    </Assets>
+  </ResourceCollection>
+</UnityGameFramework>

@@ -1,0 +1,7 @@
+{
+	"GameVarsion":"0.1.0",
+	"InternalGameVarsion":0,
+	"CheckVersionUrl":"https://www.cydexb.com/yx/lrs/version.txt",
+	"WindowsAppUrl":"https://www.cydexb.com/yx/lrs/Windows",
+	“END_OF_JSON”: ""
+}

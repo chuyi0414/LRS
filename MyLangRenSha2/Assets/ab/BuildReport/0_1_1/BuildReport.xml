@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <BuildReport>
+    <Summary>
+      <ProductName>MyLangRenSha</ProductName>
+      <CompanyName>DefaultCompany</CompanyName>
+      <GameIdentifier>com.DefaultCompany.MyLangRenSha</GameIdentifier>
+      <GameFrameworkVersion>2021.05.31</GameFrameworkVersion>
+      <UnityVersion>2021.3.39f1c1</UnityVersion>
+      <ApplicableGameVersion>0.1</ApplicableGameVersion>
+      <InternalResourceVersion>1</InternalResourceVersion>
+      <Platforms>Windows</Platforms>
+      <AssetBundleCompression>LZ4</AssetBundleCompression>
+      <CompressionHelperTypeName>UnityGameFramework.Runtime.DefaultCompressionHelper</CompressionHelperTypeName>
+      <AdditionalCompressionSelected>True</AdditionalCompressionSelected>
+      <ForceRebuildAssetBundleSelected>False</ForceRebuildAssetBundleSelected>
+      <BuildEventHandlerTypeName>StarForceBuildEventHandler</BuildEventHandlerTypeName>
+      <OutputDirectory>D:/xxrj/UnityHub/xm/MyLangRenSha2/Assets/ab</OutputDirectory>
+      <BuildAssetBundleOptions>DeterministicAssetBundle, ChunkBasedCompression</BuildAssetBundleOptions>
+    </Summary>
+    <Resources Count="2">
+      <Resource Name="Entity" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="12760b628731c3140b741c0bbe721ab8" Name="Assets/GameMain/Resources/Entities/Roles/Roles.prefab" Length="896" HashCode="798262300" />
+          <Asset Guid="c475c548bf62aec4d954e8fd90bbd15c" Name="Assets/GameMain/Resources/Entities/Roles/Role.prefab" Length="9387" HashCode="1976833609" />
+        </Assets>
+        <Codes>
+          <Windows Length="33441" HashCode="-1537900005" CompressedLength="23423" CompressedHashCode="-815490081" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="3">
+          <Asset Guid="51058ec414bc7fb4dbb2a5627a3c5b78" Name="Assets/GameMain/Resources/UI/UIForms/Role/Rocker.prefab" Length="5546" HashCode="1254225946" />
+          <Asset Guid="85b80c8823d5a4149b2174c5871dd31c" Name="Assets/GameMain/Resources/UI/UIForms/Start/CanvasStart.prefab" Length="29825" HashCode="3438457" />
+          <Asset Guid="f2660c0784b078e438e8273f0312e1e1" Name="Assets/GameMain/Resources/UI/UIForms/Hall/CanvasSetting.prefab" Length="10642" HashCode="191287868" />
+        </Assets>
+        <Codes>
+          <Windows Length="10898145" HashCode="-1426535941" CompressedLength="9374901" CompressedHashCode="1396149906" />
+        </Codes>
+      </Resource>
+    </Resources>
+  </BuildReport>
+</UnityGameFramework>
